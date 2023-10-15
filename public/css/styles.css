@@ -1,0 +1,71 @@
+body {
+    /* background-color: #1D1D1D; */
+    background-color: #313131;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+    color: white;
+}
+h2 {
+    color: white;
+    padding-top: 40px;
+}
+h3 {
+    color: white;
+    text-align: left;
+    /* position: relative;
+    top: 400px; */
+}
+
+p {
+    color: white;
+    text-align: justify;
+}
+.btn{
+    /* position: relative; */
+    left: 200px;
+    top: 400px;
+}
+.btn-danger {
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    width:12%; 
+}
+.btn-rounded {
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    width:12%; 
+}
+
+.container {
+    padding: 20px;
+}
+
+.col-md-6 {
+    padding: 20px;
+}
+/* Define styles for the footer */
+footer {
+    background-color: #1D1D1D; /* Black background color */
+    color: #fff; /* White text color */
+    padding: 20px;
+    text-align: center;
+}
+
+.social-icons a {
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.social-icons img {
+    width: 30px;
+    height: 30px;
+}
+
+/* Add hover effects if desired */
+.social-icons a:hover img {
+    opacity: 0.8;
+}
