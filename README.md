@@ -1,5 +1,5 @@
 # SoftwareLab
-# My NPM App
+
 
 A brief description of your Node.js application goes here.
 
